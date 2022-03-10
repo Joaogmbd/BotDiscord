@@ -5,7 +5,7 @@ import random as r
 import datetime
 
 #credenciais
-TOKEN = 'OTQ2MjE0MDc4ODY1NjM3NDQ2.YhbciA.TqM5LRmKo20893bBis1V5mKerxI'
+TOKEN = '<token>'
 
 client = commands.Bot(command_prefix='R!')
 
